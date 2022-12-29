@@ -1,0 +1,28 @@
+{
+  "todos": [
+    {
+      "id": 1,
+      "title": "Work On React Fundamentals",
+      "description": "Learn about basic jsx, state, props, useState, useEffect and error boundaries",
+      "isCompleted": false
+    },
+    {
+      "id": 2,
+      "title": "Work On Advance React",
+      "description": "Work on react advance hooks like useRef, useReducer, useContext and some modern data fetching techniques",
+      "isCompleted": false
+    },
+    {
+      "title": "Learn React router dom basics",
+      "description": "React router dom is awesome tool for routing in react",
+      "id": 3,
+      "isCompleted": true
+    },
+    {
+      "title": "Learn Redux Toolkit",
+      "description": "Redux toolkit is used for global statedfdsfdsfdfmgmt.",
+      "id": 4,
+      "isCompleted": true
+    }
+  ]
+}
